@@ -15,7 +15,6 @@ public:
       return subtreeKeyCount;
    }
    
-   // Your code here
    void UpdateSubtreeKeyCount(){
       int leftCount = 0;
       int rightCount = 0;
